@@ -1,0 +1,6 @@
+customhost = "employee.cxpze2nstvix.eu-north-1.rds.amazonaws.com"
+customuser = "Employee2023"
+custompass = "Employee"
+customdb = "employee"
+custombucket = "addemployees2023"
+customregion = "eu-north-1"
